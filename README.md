@@ -1,6 +1,5 @@
 ==============
 This cookbook installs redis,rabbitmq and sensu-server.
-sasa
 Usages
 ------
 Simply include the 'sensu' recipe wherever you would like sensu-server installed such as a run list (`recipe[sensu]`) or a cookbook (`include_recipe 'sensu'`).
